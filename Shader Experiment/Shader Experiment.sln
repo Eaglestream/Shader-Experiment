@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shader Experiment.Plugins", "Shader Experiment.Plugins.csproj", "{2C5EBA01-886B-5964-426E-8A52FC34B8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shader Experiment.Editor.Plugins", "Shader Experiment.Editor.Plugins.csproj", "{06079A4B-72D9-67BC-99D5-7011CF2BA549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5EBA01-886B-5964-426E-8A52FC34B8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5EBA01-886B-5964-426E-8A52FC34B8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5EBA01-886B-5964-426E-8A52FC34B8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5EBA01-886B-5964-426E-8A52FC34B8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06079A4B-72D9-67BC-99D5-7011CF2BA549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06079A4B-72D9-67BC-99D5-7011CF2BA549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06079A4B-72D9-67BC-99D5-7011CF2BA549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06079A4B-72D9-67BC-99D5-7011CF2BA549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
